@@ -1,0 +1,35 @@
+  605  go mod init module
+  606  go get -u github.com/gorilla/mux
+  607  go env
+  608  cd /home/kedarnathpc/go/pkg/mod/
+  609  ls
+  610  cd cache
+  611  ls
+  612  cd download
+  613  ls
+  614  cd github.com
+  615  ls
+  616  cd gorilla
+  617  ls
+  618  cd mux
+  619  ls
+  620  exit
+  621  go build .
+  622  go run ./main.go
+  623  go mod tidy
+  624  go mod verify
+  625  go list
+  626  go list all
+  627  go list -m all
+  628  go list -m -version github.com/gorilla/mux
+  629  go list -m -versions github.com/gorilla/mux
+  630  go mod tidy
+  631  go mod why github.com/gorilla/mux
+  632  go mod graph
+  633  go mod edit -go 1.16
+  634  go mod edit -go 1.20
+  635  go mod vendor
+  636  uptime -p
+  637  exit
+  638  ls
+  639  history

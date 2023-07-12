@@ -1,0 +1,5 @@
+Lexer : a component of compiler that manages the grammer of language, for example the code must be ended with semicolon
+        it breaks down the source code into small unit called tokens and analyses them for the predefined rules and structures
+
+almost everything is type in golang
+
